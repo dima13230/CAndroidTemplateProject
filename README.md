@@ -1,10 +1,10 @@
-# rawdrawandroidexample
+# CAndroid Template Project
 
-Example app using rawdrawandroid as a submodule.  Check out rawdrawandroid here:
+Example app using CAndroid as a submodule.  Check out CAndroid here:
 
 https://github.com/cnlohr/rawdrawandroid
 
-Starting from no folder at all:
+Starting from scratch:
 ```
 	# git submodule add https://github.com/cnlohr/rawdrawandroid
 	# git submodule update --init --recursive
